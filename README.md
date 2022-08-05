@@ -9,7 +9,7 @@ SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS
 **Expertise** \
 Data Processing and QA • Network Analysis • Machine Learning • Data Mining • Exploratory Analysis • Survey Design • Visual Frames • Social Movements • Predictive Modeling • Data and Feature Extraction • Classification • Regression • Clustering • Transformers• Recursive and Convolutional Neural Networks • Dimensionality Reduction • Multiclass Classification • Multilevel Modeling • Information Retrieval• Natural Language Processing • Word Embeddings • Topic Models • Survey Design• 
 
-## Publications and Presentations\
+## Publications and Presentations
 Mixed Methods for Understanding Visual Frames in Social Movements, International Conference on Computational Social Science (IS2C2), Poster, Chicago, July 2022\
 Extracting Space Situational Awareness Events from News Text, Language Resources and Evaluation Conference (LREC). May 2022, arxiv link\
 Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces, ASIS&T Poster, Salt Lake City, 11/2/2021\
@@ -18,7 +18,7 @@ Data Visualization Timeline - Old North Pilgrimage Project, Permanent Installati
 Network Installations - An Art Technology, Paper Presenter, PCA/ACA 06/09/2015, STGlobal Conference in DC 11/2015\
 Street Art Dialogue, Gnovis Journal, December 18, 2014 (Peer Reviewed Publication)
 
-### Leadership\
+### Leadership
 **Data Carpentries Instructor** – Led live coding workshops with a team to novice learners 2022 - Present \
 **WiDS-Tucson (Women in Data Science)**, Panel Sessions Organizer, Data Blitz Committees 2021 -2022 \
 **Data Science Ambassador**- Data Science liaison for the CSS certificate and iSchool, Datathon Organizer 2021 – 2022 \
@@ -30,7 +30,7 @@ Street Art Dialogue, Gnovis Journal, December 18, 2014 (Peer Reviewed Publicatio
 ![Image](src)
 
 
-### Coursework and Certifications\
+## Coursework and Certifications\
 Text Analysis Pedagogy Institute – JSTOR & University of Arizona, Summer 2022\
 Introduction to Artificial Intelligence– School of Information, Spring 2022\
 Information Retrieval– School of Information, Spring 2022\
