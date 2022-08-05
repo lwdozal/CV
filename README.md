@@ -27,10 +27,10 @@ Street Art Dialogue, Gnovis Journal, December 18, 2014 (Peer Reviewed Publicatio
 **iSchool Colloquium**, Organizer: Moderated Lectures, led school-wide Faculty Research Blitz 2020 – 2021 \
 **Machine Learning Literacy Project**, Coach 2020 
 
-![Image](tiedye_strip.png)
+![Image](/images/noun-star-1346793.svg)
 
 
-## Coursework and Certifications\
+## Coursework and Certifications
 Text Analysis Pedagogy Institute – JSTOR & University of Arizona, Summer 2022\
 Introduction to Artificial Intelligence– School of Information, Spring 2022\
 Information Retrieval– School of Information, Spring 2022\
@@ -54,9 +54,9 @@ Presenting Data and Information- Edward Tufte, 2016\
 Knowledge Management – CCT, Georgetown 2015\
 Computational Linguistics – CCT, Georgetown 2014\
 
-![Image](tiedye_strip.png)
+![Image](/images/noun-star-1346793.svg)
 
-### Experience\
+### Experience
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
 - End-to-end product development for two interactive dashboards automatically updated on a weekly basis. Use R to build data tables that include summary statistics, time series, and inflation information of campus-wide Net Tuition Revenue (NTR) data to be loaded into an internal Oracle data warehouse. Conceptualize dashboard prototypes and created SQL script to pull database data into the dashboard. The dashboard reports are used so that campus leaders and policy makers can make informed decisions.
