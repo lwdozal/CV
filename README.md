@@ -9,18 +9,54 @@ SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS
 **Expertise** \
 Data Processing and QA • Network Analysis • Machine Learning • Data Mining • Exploratory Analysis • Survey Design • Visual Frames • Social Movements • Predictive Modeling • Data and Feature Extraction • Classification • Regression • Clustering • Transformers• Recursive and Convolutional Neural Networks • Dimensionality Reduction • Multiclass Classification • Multilevel Modeling • Information Retrieval• Natural Language Processing • Word Embeddings • Topic Models • Survey Design• 
 
-### Leadership
+## Publications and Presentations\
+Mixed Methods for Understanding Visual Frames in Social Movements, International Conference on Computational Social Science (IS2C2), Poster, Chicago, July 2022\
+Extracting Space Situational Awareness Events from News Text, Language Resources and Evaluation Conference (LREC). May 2022, arxiv link\
+Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces, ASIS&T Poster, Salt Lake City, 11/2/2021\
+Detecting the Spread of Propaganda Bias Online: Comparing HAN and BERT Models, TPRC Conference, Paper Presenter, 4/15/2021\
+Data Visualization Timeline - Old North Pilgrimage Project, Permanent Installation, Georgetown University, 4/21/2016\
+Network Installations - An Art Technology, Paper Presenter, PCA/ACA 06/09/2015, STGlobal Conference in DC 11/2015\
+Street Art Dialogue, Gnovis Journal, December 18, 2014 (Peer Reviewed Publication)
+
+### Leadership\
 **Data Carpentries Instructor** – Led live coding workshops with a team to novice learners 2022 - Present \
 **WiDS-Tucson (Women in Data Science)**, Panel Sessions Organizer, Data Blitz Committees 2021 -2022 \
 **Data Science Ambassador**- Data Science liaison for the CSS certificate and iSchool, Datathon Organizer 2021 – 2022 \
 **Lecturer-ESOC211**: Collaboration in Online Communities 2019 – 2021 \
 **RezBaz** - Presenter & Moderator, Network Analysis 2021; R Visualization 2021 and 2022 \
 **iSchool Colloquium**, Organizer: Moderated Lectures, led school-wide Faculty Research Blitz 2020 – 2021 \
-**Machine Learning Literacy Project**, Coach 2020 \
+**Machine Learning Literacy Project**, Coach 2020 
+
+![Image](src)
 
 
-### EXPERIENCE
+### Coursework and Certifications\
+Text Analysis Pedagogy Institute – JSTOR & University of Arizona, Summer 2022\
+Introduction to Artificial Intelligence– School of Information, Spring 2022\
+Information Retrieval– School of Information, Spring 2022\
+Probabilistic Graphical Models, Computer Science – Spring 2022\
+Theory of Probability – School of Statistics, Fall 2021\
+Visual Epistemologies of Media and Technology - School of Information, Spring 2021\
+Applied Social Network Analysis– School of Information, Spring 2021\
+Social Movements and Collective Action – School of Sociology, Fall 2020\
+Neural Networks– School of Information, Fall 2020\
+Bayesian Models and Inference– School of Information, Fall 2020\
+Human Rights and Technology – School of Information, Fall 2020\
+Intro to Machine Learning- Electrical and Computer Engineering, Spring 2020\
+Micro-dynamics of Political and Organized Criminal Violence – Government and Public Policy, Spring 2020\
+Science, Health, Engineering Policy, and Diplomacy; Sustainable Development for the Americas Conference, Fall 2019\
+Data Mining and Knowledge Discovery– School of Information, Fall 2019\
+UofA Computational Social Science Certification Program, 2019\
+Mapping and GIS for Journalists Workshop - Knight Center, 2018\
+User Experience and Design- Springboard Certification, 2017\
+Data Exploration and Storytelling- Knight Center Certificate, 2017\
+Presenting Data and Information- Edward Tufte, 2016\
+Knowledge Management – CCT, Georgetown 2015\
+Computational Linguistics – CCT, Georgetown 2014\
 
+![Image](src)
+
+### Experience\
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
 - End-to-end product development for two interactive dashboards automatically updated on a weekly basis. Use R to build data tables that include summary statistics, time series, and inflation information of campus-wide Net Tuition Revenue (NTR) data to be loaded into an internal Oracle data warehouse. Conceptualize dashboard prototypes and created SQL script to pull database data into the dashboard. The dashboard reports are used so that campus leaders and policy makers can make informed decisions.
