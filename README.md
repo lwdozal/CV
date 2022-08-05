@@ -1,4 +1,3 @@
-## Laura W. Dozal
 
 **Programming Languages & Tools** \
 R: tidyverse • dplyr • tidymodels • RMarkdown • \
@@ -8,7 +7,7 @@ SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS
 **Bilingual**: English Native, Spanish Fluency 
 
 **Expertise** \
-Data Processing and QA • Network Analysis • Machine Learning • Data Mining • Exploratory Analysis • Survey Design • Visual Frames • Social Movements • Predictive Modeling • Data and Feature Extraction • Classification • Regression • Clustering • Transformers• Recursive and Convolutional Neural Networks • Dimensionality Reduction • Multiclass Classification • Multilevel Modeling • Information Retrieval• Natural Language Processing • Word Embeddings • Topic Models • Survey Design• MLOps
+Data Processing and QA • Network Analysis • Machine Learning • Data Mining • Exploratory Analysis • Survey Design • Visual Frames • Social Movements • Predictive Modeling • Data and Feature Extraction • Classification • Regression • Clustering • Transformers• Recursive and Convolutional Neural Networks • Dimensionality Reduction • Multiclass Classification • Multilevel Modeling • Information Retrieval• Natural Language Processing • Word Embeddings • Topic Models • Survey Design• 
 
 ### Leadership
 **Data Carpentries Instructor** – Led live coding workshops with a team to novice learners 2022 - Present \
