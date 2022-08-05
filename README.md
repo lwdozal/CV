@@ -1,5 +1,7 @@
 <!-- ![Image](/images/noun-star-1346793.svg) -->
-<img src="/images/noun-star-1346793.svg" alt="star" width="200px"/>
+<!-- <img src="/images/noun-star-1346793.svg" alt="star" width="200px"/> -->
+
+<img width=”200" height=”250" src=”/images/noun-star-1346793.svg" />
 
 
 
