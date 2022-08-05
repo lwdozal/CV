@@ -1,5 +1,8 @@
 <!-- ![Image](/images/noun-star-1346793.svg) -->
-<img src="/images/noun-star-1346793.svg" alt="star" width="200"/>
+<img src="/images/noun-star-1346793.svg" alt="star" width="200px"/>
+[[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png|width=100px]]
+
+
 
 **Programming Languages & Tools** \
 R: tidyverse • dplyr • tidymodels • RMarkdown • \
