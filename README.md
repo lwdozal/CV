@@ -27,7 +27,9 @@ Street Art Dialogue, Gnovis Journal, December 18, 2014 (Peer Reviewed Publicatio
 **iSchool Colloquium**, Organizer: Moderated Lectures, led school-wide Faculty Research Blitz 2020 – 2021 \
 **Machine Learning Literacy Project**, Coach 2020 
 
-![Image](/images/noun-star-1346793.svg)
+<!-- ![Image](/images/noun-star-1346793.svg) -->
+<img src="/images/noun-star-1346793.svg" alt="star" width="200"/>
+
 
 
 ## Coursework and Certifications
