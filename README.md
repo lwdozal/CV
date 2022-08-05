@@ -8,8 +8,6 @@ SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS
 
 **Bilingual**: English Native, Spanish Fluency 
 
-<img src="/images/noun-star-1346793.svg" alt="star" width="75"/>
-
 
 **Expertise** \
 Data Processing and QA • Network Analysis • Machine Learning • Data Mining • Exploratory Analysis • Survey Design • Visual Frames • Social Movements • Predictive Modeling • Data and Feature Extraction • Classification • Regression • Clustering • Transformers• Recursive and Convolutional Neural Networks • Dimensionality Reduction • Multiclass Classification • Multilevel Modeling • Information Retrieval• Natural Language Processing • Word Embeddings • Topic Models • Survey Design• 
@@ -23,7 +21,7 @@ Data Visualization Timeline - [Old North Pilgrimage Project](https://journals.sa
 Network Installations - An Art Technology, [Paper Presenter, PCA/ACA](https://pcaaca.org/sites/default/files/wp-content/uploads/2016/05/2016-pcaaca-program-with-schedule.pdf) 06/09/2015, STGlobal Conference in DC 11/2015\
 [Street Art Dialogue, Gnovis Journal](https://repository.library.georgetown.edu/bitstream/handle/10822/761436/Street_Art_Dialogue.pdf;sequence=1), December 18, 2014 (Peer Reviewed Publication)
 
-<img src="/images/noun-star-1346793.svg" alt="star" width="75"/>
+<img src="/images/noun-lines-2150931.svg" alt="star" width="75"/>
 
 ### Leadership
 **Data Carpentries Instructor** – Led live coding workshops with a team to novice learners 2022 - Present \
@@ -34,7 +32,7 @@ Network Installations - An Art Technology, [Paper Presenter, PCA/ACA](https://pc
 **iSchool Colloquium**, Organizer: Moderated Lectures, led school-wide Faculty Research Blitz 2020 – 2021 \
 **Machine Learning Literacy Project**, Coach 2020 
 
-<img src="/images/noun-star-1346793.svg" alt="star" width="75"/>
+<img src="/images/noun-lines-2150931.svg" alt="star" width="75"/>
 
 ## Coursework and Certifications
 Text Analysis Pedagogy Institute – JSTOR & University of Arizona, Summer 2022\
@@ -60,7 +58,7 @@ Presenting Data and Information- Edward Tufte, 2016\
 Knowledge Management – CCT, Georgetown 2015\
 Computational Linguistics – CCT, Georgetown 2014\
 
-<img src="/images/noun-star-1346793.svg" alt="star" width="75"/>
+<img src="/images/noun-lines-2150931.svg" alt="star" width="75"/>
 
 ### Experience
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
