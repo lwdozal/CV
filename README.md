@@ -15,7 +15,7 @@ Data Processing and QA • Network Analysis • Machine Learning • Data Mining
 ## Publications and Presentations
 - [Mixed Methods for Understanding Visual Frames in Social Movements](https://ischool.arizona.edu/events/mixed-methods-understanding-visual-frames-social-movements-laura-w-dozal), International Conference on Computational Social Science [(IS2C2), Poster](https://www.ic2s2.org/_files/ugd/3d8e26_1394ecaa666e4d6d8d8199fe28d17746.pdf), Chicago, July 2022\
 - [Extracting Space Situational Awareness Events from News Text, Language Resources and Evaluation Conference](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.653.pdf) (LREC). May 2022\
-- [Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces] (https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.537), ASIS&T Poster, Salt Lake City, 11/2/2021\
+- [Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.537), ASIS&T Poster, Salt Lake City, 11/2/2021\
 - [Detecting the Spread of Propaganda Bias Online: Comparing HAN and BERT Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3748821), TPRC Conference, Paper Presenter, 4/15/2021\
 - Data Visualization Timeline - [Old North Pilgrimage Project](https://journals.sagepub.com/doi/10.1177/1474022217736510), Permanent Installation, Georgetown University, 4/21/2016\
 - Network Installations - An Art Technology, [Paper Presenter, PCA/ACA](https://pcaaca.org/sites/default/files/wp-content/uploads/2016/05/2016-pcaaca-program-with-schedule.pdf) 06/09/2015, STGlobal Conference in DC 11/2015\
