@@ -27,7 +27,7 @@ Street Art Dialogue, Gnovis Journal, December 18, 2014 (Peer Reviewed Publicatio
 **iSchool Colloquium**, Organizer: Moderated Lectures, led school-wide Faculty Research Blitz 2020 – 2021 \
 **Machine Learning Literacy Project**, Coach 2020 
 
-![Image](src)
+![Image](tiedye_strip.png)
 
 
 ## Coursework and Certifications\
@@ -54,7 +54,7 @@ Presenting Data and Information- Edward Tufte, 2016\
 Knowledge Management – CCT, Georgetown 2015\
 Computational Linguistics – CCT, Georgetown 2014\
 
-![Image](src)
+![Image](tiedye_strip.png)
 
 ### Experience\
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
