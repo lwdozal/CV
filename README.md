@@ -1,43 +1,33 @@
 ## Laura W. Dozal
 
-**Programming Languages & Tools:** 
+**Programming Languages & Tools** \
+R: tidyverse • dplyr • tidymodels • RMarkdown • \
+Python: numpy • pandas • scikit-learn • TensorFlow •  \
+SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS
 
-R: tidyverse • dplyr • tidymodels • RMarkdown • 
+**Bilingual**: English Native, Spanish Fluency 
 
-Python: numpy • pandas • scikit-learn • TensorFlow •  
-
-SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS •
-
-**Bilingual**: English Native, Spanish Fluency
-
-**Expertise:**
-
+**Expertise** \
 Data Processing and QA • Network Analysis • Machine Learning • Data Mining • Exploratory Analysis • Survey Design • Visual Frames • Social Movements • Predictive Modeling • Data and Feature Extraction • Classification • Regression • Clustering • Transformers• Recursive and Convolutional Neural Networks • Dimensionality Reduction • Multiclass Classification • Multilevel Modeling • Information Retrieval• Natural Language Processing • Word Embeddings • Topic Models • Survey Design• MLOps
 
 ### Leadership
-**Data Carpentries Instructor** – Led live coding workshops with a team to novice learners 2022 - Present
-
-**WiDS-Tucson (Women in Data Science)**, Panel Sessions Organizer, Data Blitz Committees 2021 -2022
-
-**Data Science Ambassador**- Data Science liaison for the CSS certificate and iSchool, Datathon Organizer 2021 – 2022
-
-**Lecturer-ESOC211**: Collaboration in Online Communities 2019 – 2021
-
-**RezBaz** - Presenter & Moderator, Network Analysis 2021; R Visualization 2021 and 2022
-
-**iSchool Colloquium**, Organizer: Moderated Lectures, led school-wide Faculty Research Blitz 2020 – 2021
-
-**Machine Learning Literacy Project**, Coach 2020
+**Data Carpentries Instructor** – Led live coding workshops with a team to novice learners 2022 - Present \
+**WiDS-Tucson (Women in Data Science)**, Panel Sessions Organizer, Data Blitz Committees 2021 -2022 \
+**Data Science Ambassador**- Data Science liaison for the CSS certificate and iSchool, Datathon Organizer 2021 – 2022 \
+**Lecturer-ESOC211**: Collaboration in Online Communities 2019 – 2021 \
+**RezBaz** - Presenter & Moderator, Network Analysis 2021; R Visualization 2021 and 2022 \
+**iSchool Colloquium**, Organizer: Moderated Lectures, led school-wide Faculty Research Blitz 2020 – 2021 \
+**Machine Learning Literacy Project**, Coach 2020 \
 
 
 ### EXPERIENCE
 
-Graduate Research Assistant: Data Analysis – University Analytics and Institutional Research
+Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
--	End-to-end product development for two interactive dashboards automatically updated on a weekly basis. Use R to build data tables that include summary statistics, time series, and inflation information of campus-wide Net Tuition Revenue (NTR) data to be loaded into an internal Oracle data warehouse. Conceptualize dashboard prototypes and created SQL script to pull database data into the dashboard. The dashboard reports are used so that campus leaders and policy makers can make informed decisions.
--	Work under the customer experience team and closely with the data engineering team to connect to batch servers and the internal data warehouse. Use the Jira ticket system, Sourcetree and Slack to communicate and organize the project.
+- End-to-end product development for two interactive dashboards automatically updated on a weekly basis. Use R to build data tables that include summary statistics, time series, and inflation information of campus-wide Net Tuition Revenue (NTR) data to be loaded into an internal Oracle data warehouse. Conceptualize dashboard prototypes and created SQL script to pull database data into the dashboard. The dashboard reports are used so that campus leaders and policy makers can make informed decisions.
+- Work under the customer experience team and closely with the data engineering team to connect to batch servers and the internal data warehouse. Use the Jira ticket system, Sourcetree and Slack to communicate and organize the project.
 
-Computational Tools and Thinking Fellow – iSchool Inclusion Institute (i3-inclusion.org)
+Computational Tools and Thinking Fellow – [iSchool Inclusion Institute](i3-inclusion.org)
 Austin, Texas, 06/2022 – 07/2022
 -	Developed two weeks’ worth of lessons plans for a survey course that covered introduction to computational thinking, R, Python, Social Network Analysis, Design Theory, and coding best practices. Taught to a wide range of experience levels that included 25 high achieving undergraduate students from STEM and Social Sciences. Held office hours to support outside research and enabled the development of a 20-month research design process.
 
@@ -56,17 +46,18 @@ Tucson, AZ, 01/2021 – 8/2021
 Research Analyst – Security Analysis Co-Lab. University of Arizona 
 Tucson, AZ, 03/2020 – 9/2021 
 -	Lead data management and repository infrastructure foundation for survey data from every state in El Salvador. Prepared and analyzed a randomized control treatment to schools in high crime areas. Applied simple statistics, hypothesis testing, and regression analysis to collected data of large-scale application of survey instrument roll-out. 
--	Assisted with grant and proposal writing, coordinated with government and community collaborators to identify research parameters and methodology. Used a logical framework and theory of change approach to compose project materials.
+- Assisted with grant and proposal writing, coordinated with government and community collaborators to identify research parameters and methodology. Used a logical framework and theory of change approach to compose project materials.
 
 Survey Data Manager – Minerva Project University of Arizona 
 Tucson, AZ, Summer 2021 
--	NSF Grant funded project: Contributed to maintenance of a pipeline for 8k+ unique and personalized surveys in English, Spanish, Pashto and Dari. Applied data cleaning, wrangling, and statistical analysis to a databank of crowd-sourced history of armed conflict in Afghanistan and Colombia for the US Department of Defense. 
--	Troubleshooted and applied forensic analysis to problem solve issues in the pipeline and iterate over processes for optimization. Assessed project state and automate forecasting of coverage to establish future project needs and priorities
--	Completed Time Series visualizations for dynamic datasets by reformatting and manipulating data in R to show the territorial control by Criminal Organizations. 
+- NSF Grant funded project: Contributed to maintenance of a pipeline for 8k+ unique and personalized surveys in English, Spanish, Pashto and Dari. Applied data cleaning, wrangling, and statistical analysis to a databank of crowd-sourced history of armed conflict in Afghanistan and Colombia for the US Department of Defense. 
+- Troubleshooted and applied forensic analysis to problem solve issues in the pipeline and iterate over processes for optimization. Assessed project state and automate forecasting of coverage to establish future project needs and priorities
+- Completed Time Series visualizations for dynamic datasets by reformatting and manipulating data in R to show the territorial control by Criminal Organizations. 
+
 Graduate Teaching Assistant: Instructor – University of Arizona School of Information
 Tucson, AZ, 08/2019 – Present
-	Instructor for ESOC 211 – Collaborating in Online Communities. The class focuses on what humans do, how they present themselves, and how they do the work of collaboration in online contexts by considering how people create a sense of community, maintain group connections, and cooperate with one another to bring about a particular outcome.
--	Students learn online collaboration skills, and alternative thinking processes on how to approach online communities. I introduce digital tools such as LucidChart, Adobe Spark, and digital content methods such as user personas, metadata, and SEO. They also learn genre analysis and visual rhetoric.
+- Instructor for ESOC 211 – Collaborating in Online Communities. The class focuses on what humans do, how they present themselves, and how they do the work of collaboration in online contexts by considering how people create a sense of community, maintain group connections, and cooperate with one another to bring about a particular outcome.
+- Students learn online collaboration skills, and alternative thinking processes on how to approach online communities. I introduce digital tools such as LucidChart, Adobe Spark, and digital content methods such as user personas, metadata, and SEO. They also learn genre analysis and visual rhetoric.
 
 Community Outreach and Program Coordinator – Lutheran Social Services of the Southwest K-12 Refugee Education (AmeriCorps State Member)
 Tucson, AZ, 08/2016 – 08/2019
