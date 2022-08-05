@@ -1,15 +1,78 @@
 ## Laura W. Dozal
 
-You can use the [editor on GitHub](https://github.com/lwdozal/laurawdozal.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Programming Languages & Tools:**
+R: tidyverse • dplyr • tidymodels • RMarkdown •
+Python: numpy • pandas • scikit-learn • TensorFlow • 
+SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS •
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Bilingual**: English Native, Spanish Fluency
 
-### Markdown
+**Expertise:**
+Data Processing and QA • Network Analysis • Machine Learning • Data Mining • Exploratory Analysis
+• Predictive Modeling • Data and Feature Extraction
+• Classification • Regression • Clustering • Transformers• Recursive and Convolutional Neural Networks • Dimensionality Reduction • Multiclass Classification • Multilevel Modeling • Information Retrieval• Natural Language Processing • Word Embeddings • Topic Models • Survey Design• MLOps
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### EXPERIENCE
+
+Graduate Research Assistant: Data Analysis – University Analytics and Institutional Research
+Tucson, AZ, 08/2021 – Present
+-	End-to-end product development for two interactive dashboards automatically updated on a weekly basis. Use R to build data tables that include summary statistics, time series, and inflation information of campus-wide Net Tuition Revenue (NTR) data to be loaded into an internal Oracle data warehouse. Conceptualize dashboard prototypes and created SQL script to pull database data into the dashboard. The dashboard reports are used so that campus leaders and policy makers can make informed decisions.
+-	Work under the customer experience team and closely with the data engineering team to connect to batch servers and the internal data warehouse. Use the Jira ticket system, Sourcetree and Slack to communicate and organize the project.
+Computational Tools and Thinking Fellow – iSchool Inclusion Institute (i3-inclusion.org)
+Austin, Texas, 06/2022 – 07/2022
+-	Developed two weeks’ worth of lessons plans for a survey course that covered introduction to computational thinking, R, Python, Social Network Analysis, Design Theory, and coding best practices. Taught to a wide range of experience levels that included 25 high achieving undergraduate students from STEM and Social Sciences. Held office hours to support outside research and enabled the development of a 20-month research design process.
+
+
+Data Science Ambassador– University Arizona Data Science Institute
+Tucson, AZ, 08/2021 – Present
+	Data Science community support and resource for the CSS certificate and iSchool 2021 – 2022. Data Carpentries Instructor as of 2/14/2022 - Live coding instructor for Data Analysis and Visualization with R for Social Scientists.
+	Projects in Progress Creator and Organizer. Community Data Science environment for researchers on campus to collaborate and share projects ideas and progress. Helped consult 3 - 5 projects (over 20 researchers) using data science methods monthly.
+	Helped organize Stanford-based Women in Data Science satellite conference and led the Computational Social Science panel as an organizer and moderator. April 2022 event is expected to have around 400 participants.
+
+Graduate Research Assistant: Data Science – Arizona Medical Education Research Initiative
+Tucson, AZ, 01/2021 – 8/2021
+	Applied statistical analysis an inference to survey and collected data to review and test the University of Arizona’s Medical School’s performance for future accreditation. Types of data include survey data, raw archived data, collected government and academic data from large data systems. Used both R and Python to apply analysis of variance, chi-square tests, post hoc and assumptions checks, regression analysis, correlation analysis, visualizations.  
+	Worked with Power BI, Excel, R and Python to clean, manage, transform, analyze, iterate, and visualize data. Created reports from various sized data sets using statistical analysis and visualization. Asset in team collaboration
+
+Research Analyst – Security Analysis Co-Lab. University of Arizona 
+Tucson, AZ, 03/2020 – 9/2021 
+	Lead data management and repository infrastructure foundation for survey data from every state in El Salvador. Prepared and analyzed a randomized control treatment to schools in high crime areas. Applied simple statistics, hypothesis testing, and regression analysis to collected data of large-scale application of survey instrument roll-out. 
+	Assisted with grant and proposal writing, coordinated with government and community collaborators to identify research parameters and methodology. Used a logical framework and theory of change approach to compose project materials.
+
+Survey Data Manager – Minerva Project University of Arizona 
+Tucson, AZ, Summer 2021 
+	NSF Grant funded project: Contributed to maintenance of a pipeline for 8k+ unique and personalized surveys in English, Spanish, Pashto and Dari. Applied data cleaning, wrangling, and statistical analysis to a databank of crowd-sourced history of armed conflict in Afghanistan and Colombia for the US Department of Defense. 
+	Troubleshooted and applied forensic analysis to problem solve issues in the pipeline and iterate over processes for optimization. Assessed project state and automate forecasting of coverage to establish future project needs and priorities
+	Completed Time Series visualizations for dynamic datasets by reformatting and manipulating data in R to show the territorial control by Criminal Organizations. 
+Graduate Teaching Assistant: Instructor – University of Arizona School of Information
+Tucson, AZ, 08/2019 – Present
+	Instructor for ESOC 211 – Collaborating in Online Communities. The class focuses on what humans do, how they present themselves, and how they do the work of collaboration in online contexts by considering how people create a sense of community, maintain group connections, and cooperate with one another to bring about a particular outcome.
+	Students learn online collaboration skills, and alternative thinking processes on how to approach online communities. I introduce digital tools such as LucidChart, Adobe Spark, and digital content methods such as user personas, metadata, and SEO. They also learn genre analysis and visual rhetoric.
+
+Community Outreach and Program Coordinator – Lutheran Social Services of the Southwest K-12 Refugee Education (AmeriCorps State Member)
+Tucson, AZ, 08/2016 – 08/2019
+	Arizona Serve State Member working with the non-profit organization, LSS – K-12 Refugee Education CENTER, by providing academic support, empowerment, and leadership skills to refugee students in Tucson, Arizona. Provided assessment and outreach for Tucson schools with large refugee student populations by developing a database to track and identify community resources and partnerships. Connected students to local academic advancement resources.
+	Created a sustainable measurement process to identify the impact of LSS-SW Education services based on student survey and school-based data. Produced a report of the year’s work, updated Refugee Youth Services Handbook, and share with stakeholders. Keep LSS-SW a primary education resource for the Tucson refugee community. 
+	Helped students with website creation and create lesson plans and workshops to help students get better acclimated to using digital files and performing research on the internet. Used web design best-practices and maintained a website showcasing student work that expresses themselves and their stories of refugee immigration. Review communication apps for students and teachers.
+
+Digital Content Specialist – Tetakawi
+Tucson, AZ, 08/2016 – 05/2019
+	Conducted field research on the Mexican labor market for advisory services branch. Provide report editing, and data check to research findings. Researched industry resources on economic, regulatory and policy events in Mexico and U.S. trade relations on company website.
+		Worked with SEO, Google analytics and CMS platforms for web optimization. Create content using design and basic principles for blogs, e-books, white-papers, infographics, graphics, and market reports. Spearheaded UX research and design for website re-branding. Including wire-framing, prototyping, testing, surveying, and content creation.
+
+Web Designer / Content Management - McCourt School of Public Policy, Georgetown University
+Washington, D.C.  Summer 2016
+	Applied design thinking consulting to help the marketing, IT, and communications director transition to new a website platform. Solved Problems with coding elements using bootstrap and Drupal platforms. Applied UX design methodology and analysis. https://mccourt.georgetown.edu/. Applied quality assurance review and web design best practices for multiple website projects.
+
+Teaching / Research Assistant - Georgetown University
+Washington, D.C. 08/2015 – 07/2016
+	Fundamentals of Technology: Worked with a team of TAs and professors to implement syllabus and in- class participation. Led breakout discussion sessions to guide students with leadership and interpersonal skills as they develop an understanding of the material. Maintained a strong understanding of course content to answer questions on technology assessment and guide students on assignments, project development and exam instructions. 
+	Content Analysis Research: Applied data management skills to review data sets and reports. Developed analytics guide to further the study. Used the predictive analytics software, SPSS, to clean and create multiple databases to observe content and survey records. Applied critical thinking and analysis to data. Created annotated bibliographies, and edited reports.
+
+Digital Experience Intern – Archives of American Art, Smithsonian Institution
+Washington, D.C. Summer 2015
+	Implemented website development, quality assurance, design research for logo redesign. Audited and managed website content for transition to the Drupal platform. Coordinated with staff for Drupal trainings and social media initiatives. Researched website best practices and current art news. Coordinated social media strategies with team. Created SEO metadata. Awarded the Horowitz-Fraud Minority Scholar. https://www.aaa.si.edu/
 
 # Header 1
 ## Header 2
