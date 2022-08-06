@@ -22,7 +22,8 @@ Data Processing and QA • Network Analysis • Machine Learning • Data Mining
 - Network Installations - An Art Technology, [Paper Presenter, PCA/ACA](https://pcaaca.org/sites/default/files/wp-content/uploads/2016/05/2016-pcaaca-program-with-schedule.pdf) 06/09/2015, STGlobal Conference in DC 11/2015\
 - [Street Art Dialogue, Gnovis Journal](https://repository.library.georgetown.edu/bitstream/handle/10822/761436/Street_Art_Dialogue.pdf;sequence=1), December 18, 2014 (Peer Reviewed Publication)
 
-<img src="/images/noun-lines-resize.png" alt="lines" width="75"/>
+![Image](/images/noun-lines-resize.png)
+<!-- <img src="/images/noun-lines-resize.png" alt="lines" width="75"/> -->
 
 ### Leadership
 **Data Carpentries Instructor** – Led live coding workshops with a team to novice learners 2022 - Present \
