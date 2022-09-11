@@ -57,7 +57,7 @@ User Experience and Design- Springboard Certification, 2017\
 Data Exploration and Storytelling- Knight Center Certificate, 2017\
 Presenting Data and Information- Edward Tufte, 2016\
 Knowledge Management – CCT, Georgetown 2015\
-Computational Linguistics – CCT, Georgetown 2014\
+Computational Linguistics – CCT, Georgetown 2014
 
 <img src="/images/noun-star-1346793.svg" width=10% height=10%/>
 
