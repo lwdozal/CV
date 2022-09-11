@@ -25,9 +25,10 @@ Data Processing and QA • Network Analysis • Machine Learning • Data Mining
 <img src="/images/noun-lines-resize.png"  width=15% height=15%/>
 
 ### Leadership
-**Data Carpentries Instructor** – Led live coding workshops with a team to novice learners 2022 - Present \
+**Data Carpentries Instructor** – Live coding workshops in R, Open Refine, Spreadsheets and other data science skills 2022 - Present \
 **WiDS-Tucson (Women in Data Science)**, Panel Sessions Organizer, Data Blitz Committees 2021 -2022 \
-**Data Science Ambassador**- Data Science liaison for the CSS certificate and iSchool, Datathon Organizer 2021 – 2022 \
+**Data Science Ambassador**- Data Science liaison for the CSS certificate and iSchool; Datathon Organizer 2021 – 2022 \
+**Lecturer-ESOC300**: Digital Storytelling Summer 2022 \
 **Lecturer-ESOC211**: Collaboration in Online Communities 2019 – 2021 \
 **RezBaz** - Presenter & Moderator, Network Analysis 2021; R Visualization 2021 and 2022 \
 **iSchool Colloquium**, Organizer: Moderated Lectures, led school-wide Faculty Research Blitz 2020 – 2021 \
@@ -64,18 +65,19 @@ Computational Linguistics – CCT, Georgetown 2014
 ### Experience
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
-- End-to-end product development for two interactive dashboards automatically updated on a weekly basis. Use R to build data tables that include summary statistics, time series, and inflation information of campus-wide Net Tuition Revenue (NTR) data to be loaded into an internal Oracle data warehouse. Conceptualize dashboard prototypes and created SQL script to pull database data into the dashboard. The dashboard reports are used so that campus leaders and policy makers can make informed decisions.
-- Work under the customer experience team and closely with the data engineering team to connect to batch servers and the internal data warehouse. Use the Jira ticket system, Sourcetree and Slack to communicate and organize the project.
+- End-to-end product development for two interactive dashboards automatically updated on a weekly basis. Use data cleaning and manipulation in dplyr to build data tables that include weekly summary statistics, time series, and inflation information of campus-wide Net Tuition Revenue (NTR) data to be loaded into an internal Oracle data warehouse. Conceptualize dashboard prototypes and created SQL script to pull database data into the dashboard. The dashboard reports are used so that campus leaders and policy makers can make informed decisions.
+- Spearhead the Women in Science and Engineering retention report project that uses survival analysis and churn analysis. Identified particular student characteristics that debilitate or foster success towards graduating college. Enabled further review across university departments to enable discussion and student experience development.
+- Work under the customer experience team and collaborate with the data engineering team to connect to batch servers and the internal data warehouse. Use the Jira ticket system, Sourcetree and Slack to communicate and organize the project.
 
 Computational Tools and Thinking Fellow – [iSchool Inclusion Institute](i3-inclusion.org)
 Austin, Texas, 06/2022 – 07/2022
--	Developed two weeks’ worth of lessons plans for a survey course that covered introduction to computational thinking, R, Python, Social Network Analysis, Design Theory, and coding best practices. Taught to a wide range of experience levels that included 25 high achieving undergraduate students from STEM and Social Sciences. Held office hours to support outside research and enabled the development of a 20-month research design process.
+-	Developed ten, two hour lesson plans for a computational tools and thinking survey course that covered R, Python, Social Network Analysis, Design Theory, and coding best practices. Taught to a wide range of experience levels that included 25 high achieving undergraduate students from STEM and Social Sciences fields. Held office hours to support outside research and enabled the development of a 20-month research design process. Participated in community building activities with other distinguised fellows as well as with our students. Maintained mentor level contact with students to aid in coding and analysis applications for their research.
 
 
 Data Science Ambassador– University Arizona Data Science Institute
 Tucson, AZ, 08/2021 – Present
--	Data Science community support and resource for the CSS certificate and iSchool 2021 – 2022. Data Carpentries Instructor as of 2/14/2022 - Live coding instructor for Data Analysis and Visualization with R for Social Scientists.
--	Projects in Progress Creator and Organizer. Community Data Science environment for researchers on campus to collaborate and share projects ideas and progress. Helped consult 3 - 5 projects (over 20 researchers) using data science methods monthly.
+-	Data Science community support and resource for the CSS certificate and iSchool 2021 – 2022. Data Carpentries Instructor as of 2/14/2022 - Live coding instructor for Data Analysis and Visualization with R for Social Scientists, Open Refine, Spreadsheets and other data science skills.
+-	Projects in Progress Creator and Organizer. Community Data Science environment for researchers on campus to collaborate and share projects ideas and progress. Helped consult 3 - 5 projects over the span of two semester (over 20 researchers) using data science methods monthly.
 -	Helped organize Stanford-based Women in Data Science satellite conference and led the Computational Social Science panel as an organizer and moderator. April 2022 event is expected to have around 400 participants.
 
 Graduate Research Assistant: Data Science – Arizona Medical Education Research Initiative
