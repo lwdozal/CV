@@ -1,5 +1,5 @@
 <!-- ![Image](/images/noun-star-1346793.svg) -->
-<!-- <img src="/images/noun-star-1346793.svg" alt="star" width="200px"/> -->
+<img src="/images/noun-star-1346793.svg" width=10% height=10%/>
 
 
 **Programming Languages & Tools** \
@@ -10,7 +10,7 @@ SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS
 **Bilingual**: English Native, Spanish Fluency 
 
 
-**Expertise** \
+**Expertise** 
 Data Processing and QA • Network Analysis • Machine Learning • Data Mining • Exploratory Analysis • Survey Design • Visual Frames • Social Movements • Predictive Modeling • Data and Feature Extraction • Classification • Regression • Clustering • Transformers• Recursive and Convolutional Neural Networks • Dimensionality Reduction • Multiclass Classification • Multilevel Modeling • Information Retrieval• Natural Language Processing • Word Embeddings • Topic Models • Survey Design• 
 
 ## Publications and Presentations
@@ -22,8 +22,7 @@ Data Processing and QA • Network Analysis • Machine Learning • Data Mining
 - Network Installations - An Art Technology, [Paper Presenter, PCA/ACA](https://pcaaca.org/sites/default/files/wp-content/uploads/2016/05/2016-pcaaca-program-with-schedule.pdf) 06/09/2015, STGlobal Conference in DC 11/2015\
 - [Street Art Dialogue, Gnovis Journal](https://repository.library.georgetown.edu/bitstream/handle/10822/761436/Street_Art_Dialogue.pdf;sequence=1), December 18, 2014 (Peer Reviewed Publication)
 
-<!-- ![Image](/images/noun-lines-resize.png) -->
-<!-- <img src="/images/noun-lines-resize.png" alt="lines" width="75"/> -->
+<img src="/images/noun-lines-resize.png"  width=15% height=15%/>
 
 ### Leadership
 **Data Carpentries Instructor** – Led live coding workshops with a team to novice learners 2022 - Present \
@@ -34,7 +33,7 @@ Data Processing and QA • Network Analysis • Machine Learning • Data Mining
 **iSchool Colloquium**, Organizer: Moderated Lectures, led school-wide Faculty Research Blitz 2020 – 2021 \
 **Machine Learning Literacy Project**, Coach 2020 
 
-!<-- <img src="/images/noun-lines-2150931.svg" alt="lines" width="75"/> -->
+<img src="/images/noun-lines-resize.png"  width=15% height=15%/>
 
 ## Coursework and Certifications
 Text Analysis Pedagogy Institute – JSTOR & University of Arizona, Summer 2022\
@@ -60,7 +59,7 @@ Presenting Data and Information- Edward Tufte, 2016\
 Knowledge Management – CCT, Georgetown 2015\
 Computational Linguistics – CCT, Georgetown 2014\
 
-!<-- <img src="/images/noun-lines-resize.png" alt="lines" width="75"/> -->
+<img src="/images/noun-star-1346793.svg" width=10% height=10%/>
 
 ### Experience
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
@@ -123,28 +122,3 @@ Washington, D.C. 08/2015 – 07/2016
 Digital Experience Intern – Archives of American Art, Smithsonian Institution
 Washington, D.C. Summer 2015
 -	Implemented website development, quality assurance, design research for logo redesign. Audited and managed website content for transition to the Drupal platform. Coordinated with staff for Drupal trainings and social media initiatives. Researched website best practices and current art news. Coordinated social media strategies with team. Created SEO metadata. Awarded the Horowitz-Fraud Minority Scholar. https://www.aaa.si.edu/
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lwdozal/laurawdozal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
