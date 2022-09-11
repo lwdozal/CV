@@ -66,7 +66,7 @@ Computational Linguistics – CCT, Georgetown 2014
 
 <!-- <img src="/images/noun-star-1346793.svg" width=10% height=10%/> -->
 
-### Experience
+## Experience
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
 - End-to-end product development for two interactive dashboards automatically updated on a weekly basis. Use data cleaning and manipulation in dplyr to build data tables that include weekly summary statistics, time series, and inflation information of campus-wide Net Tuition Revenue (NTR) data to be loaded into an internal Oracle data warehouse. Conceptualize dashboard prototypes and created SQL script to pull database data into the dashboard. The dashboard reports are used so that campus leaders and policy makers can make informed decisions.
