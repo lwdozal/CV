@@ -78,13 +78,13 @@ Austin, Texas, 06/2022 – 07/2022
 -	Developed ten, two hour lesson plans for a computational tools and thinking survey course that covered R, Python, Social Network Analysis, Design Theory, and coding best practices. Taught to a wide range of experience levels that included 25 high achieving undergraduate students from STEM and Social Sciences fields. Held office hours to support outside research and enabled the development of a 20-month research design process. Participated in community building activities with other distinguised fellows as well as with our students. Maintained mentor level contact with students to aid in coding and analysis applications for their research.
 
 
-Data Science Ambassador– University Arizona Data Science Institute
+Data Science Ambassador– [University Arizona Data Science Institute](https://datascience.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
 -	Data Science community support and resource for the CSS certificate and iSchool 2021 – 2022. Data Carpentries Instructor as of 2/14/2022 - Live coding instructor for Data Analysis and Visualization with R for Social Scientists, Open Refine, Spreadsheets and other data science skills.
 -	Projects in Progress Creator and Organizer. Community Data Science environment for researchers on campus to collaborate and share projects ideas and progress. Helped consult 3 - 5 projects over the span of two semester (over 20 researchers) using data science methods monthly.
 -	Helped organize Stanford-based Women in Data Science satellite conference and led the Computational Social Science panel as an organizer and moderator. April 2022 event is expected to have around 400 participants.
 
-Graduate Research Assistant: Data Science – Arizona Medical Education Research Initiative
+Graduate Research Assistant: Data Science – [Arizona Medical Education Research Initiative](https://old.coe.arizona.edu/ameri)
 Tucson, AZ, 01/2021 – 8/2021
 -	Applied statistical analysis an inference to survey and collected data to review and test the University of Arizona’s Medical School’s performance for future accreditation. Types of data include survey data, raw archived data, collected government and academic data from large data systems. Used both R and Python to apply analysis of variance, chi-square tests, post hoc and assumptions checks, regression analysis, correlation analysis, visualizations.  
 -	Worked with Power BI, Excel, R and Python to clean, manage, transform, analyze, iterate, and visualize data. Created reports from various sized data sets using statistical analysis and visualization. Asset in team collaboration
@@ -102,21 +102,22 @@ Tucson, AZ, Summer 2021
 
 Graduate Teaching Assistant: Instructor – University of Arizona School of Information
 Tucson, AZ, 08/2019 – Present
-- Instructor for ESOC 211 – Collaborating in Online Communities. The class focuses on what humans do, how they present themselves, and how they do the work of collaboration in online contexts by considering how people create a sense of community, maintain group connections, and cooperate with one another to bring about a particular outcome.
-- Students learn online collaboration skills, and alternative thinking processes on how to approach online communities. I introduce digital tools such as LucidChart, Adobe Spark, and digital content methods such as user personas, metadata, and SEO. They also learn genre analysis and visual rhetoric.
+- Instructor for ESOC 211 – Collaborating in Online Communities. The class focuses on what humans do, how they present themselves, and how they do the work of collaboration in online contexts by considering how people create a sense of community, maintain group connections, and cooperate with one another to bring about a particular outcome. Students learn online collaboration skills, and alternative thinking processes on how to approach online communities. I introduce digital tools such as LucidChart, Adobe Spark, and digital content methods such as user personas, metadata, and SEO. They also learn genre analysis and visual rhetoric.
+- Instructor for ESOC300: Digital Storytelling Summer 2022. 
 
-Community Outreach and Program Coordinator – Lutheran Social Services of the Southwest K-12 Refugee Education (AmeriCorps State Member)
+
+Community Outreach and Program Coordinator – Lutheran Social Services of the Southwest K-12 Refugee Education [(AmeriCorps State Member)](https://americorps.gov/national-service-report/az)
 Tucson, AZ, 08/2016 – 08/2019
 -	Arizona Serve State Member working with the non-profit organization, LSS – K-12 Refugee Education CENTER, by providing academic support, empowerment, and leadership skills to refugee students in Tucson, Arizona. Provided assessment and outreach for Tucson schools with large refugee student populations by developing a database to track and identify community resources and partnerships. Connected students to local academic advancement resources.
 -	Created a sustainable measurement process to identify the impact of LSS-SW Education services based on student survey and school-based data. Produced a report of the year’s work, updated Refugee Youth Services Handbook, and share with stakeholders. Keep LSS-SW a primary education resource for the Tucson refugee community. 
 -	Helped students with website creation and create lesson plans and workshops to help students get better acclimated to using digital files and performing research on the internet. Used web design best-practices and maintained a website showcasing student work that expresses themselves and their stories of refugee immigration. Review communication apps for students and teachers.
 
-Digital Content Specialist – Tetakawi
+Digital Content Specialist – [Tetakawi](https://tetakawi.com/)
 Tucson, AZ, 08/2016 – 05/2019
 -	Conducted field research on the Mexican labor market for advisory services branch. Provide report editing, and data check to research findings. Researched industry resources on economic, regulatory and policy events in Mexico and U.S. trade relations on company website.
 - Worked with SEO, Google analytics and CMS platforms for web optimization. Create content using design and basic principles for blogs, e-books, white-papers, infographics, graphics, and market reports. Spearheaded UX research and design for website re-branding. Including wire-framing, prototyping, testing, surveying, and content creation.
 
-Web Designer / Content Management - McCourt School of Public Policy, Georgetown University
+Web Designer / Content Management - [McCourt School of Public Policy](https://mccourt.georgetown.edu/), Georgetown University
 Washington, D.C.  Summer 2016
 -	Applied design thinking consulting to help the marketing, IT, and communications director transition to new a website platform. Solved Problems with coding elements using bootstrap and Drupal platforms. Applied UX design methodology and analysis. https://mccourt.georgetown.edu/. Applied quality assurance review and web design best practices for multiple website projects.
 
@@ -125,6 +126,6 @@ Washington, D.C. 08/2015 – 07/2016
 -	Fundamentals of Technology: Worked with a team of TAs and professors to implement syllabus and in- class participation. Led breakout discussion sessions to guide students with leadership and interpersonal skills as they develop an understanding of the material. Maintained a strong understanding of course content to answer questions on technology assessment and guide students on assignments, project development and exam instructions. 
 -	Content Analysis Research: Applied data management skills to review data sets and reports. Developed analytics guide to further the study. Used the predictive analytics software, SPSS, to clean and create multiple databases to observe content and survey records. Applied critical thinking and analysis to data. Created annotated bibliographies, and edited reports.
 
-Digital Experience Intern – Archives of American Art, Smithsonian Institution
+Digital Experience Intern – [Archives of American Art](https://www.aaa.si.edu/), Smithsonian Institution
 Washington, D.C. Summer 2015
 -	Implemented website development, quality assurance, design research for logo redesign. Audited and managed website content for transition to the Drupal platform. Coordinated with staff for Drupal trainings and social media initiatives. Researched website best practices and current art news. Coordinated social media strategies with team. Created SEO metadata. Awarded the Horowitz-Fraud Minority Scholar. https://www.aaa.si.edu/
