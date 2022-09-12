@@ -15,7 +15,7 @@ SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS
 
 
 **Expertise** 
-Data Processing and QA • Network Analysis • Machine Learning • Data Mining • Exploratory Analysis • Survey Design • Visual Frames • Social Movements • Predictive Modeling • Data and Feature Extraction • Classification • Regression • Clustering • Transformers• Recursive and Convolutional Neural Networks • Dimensionality Reduction • Multiclass Classification • Multilevel Modeling • Information Retrieval• Natural Language Processing • Word Embeddings • Topic Models • Survey Design• 
+Data Processing and QA • Network Analysis • Machine Learning • Data Mining • Data Processing • Predictive Modeling • Classification • Regression • Clustering • Hypothesis Testing • Bayesian Analysis • Gaussian Models •Recursive and Convolutional Neural Networks • Dimensionality Reduction •Multiclass Classification • Multilevel Modeling• Text Analysis• Natural Language Processing• Word Embeddings • Survey Design • Visual Frames • Social Movements • 
 
 ## Publications and Presentations
 - [Mixed Methods for Understanding Visual Frames in Social Movements](https://ischool.arizona.edu/events/mixed-methods-understanding-visual-frames-social-movements-laura-w-dozal), International Conference on Computational Social Science [(IS2C2), Poster](https://www.ic2s2.org/_files/ugd/3d8e26_1394ecaa666e4d6d8d8199fe28d17746.pdf), Chicago, July 2022\
@@ -75,12 +75,14 @@ Tucson, AZ, 08/2021 – Present
 
 Computational Tools and Thinking Fellow – [iSchool Inclusion Institute](i3-inclusion.org)
 Austin, Texas, 06/2022 – 07/2022
--	Developed ten, two hour lesson plans for a computational tools and thinking survey course that covered R, Python, Social Network Analysis, Design Theory, and coding best practices. Taught to a wide range of experience levels that included 25 high achieving undergraduate students from STEM and Social Sciences fields. Held office hours to support outside research and enabled the development of a 20-month research design process. Participated in community building activities with other distinguised fellows as well as with our students. Maintained mentor level contact with students to aid in coding and analysis applications for their research.
+-	Developed ten, two hour lesson plans for a computational tools and thinking survey course that covered R, Python, Social Network Analysis, Design Theory, and coding best practices. Taught to a wide range of experience levels that included 25 high achieving undergraduate students from STEM and Social Sciences fields. 
+-	Held office hours to support outside research and enabled the development of a 20-month research design process. Participated in community building activities with other distinguished fellows as well as with our students. 
+-	Maintained mentor level contact with students to aid in coding and analysis applications for their research.
 
 
 Data Science Ambassador– [University Arizona Data Science Institute](https://datascience.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
--	Data Science community support and resource for the CSS certificate and iSchool 2021 – 2022. Data Carpentries Instructor as of 2/14/2022 - Live coding instructor for Data Analysis and Visualization with R for Social Scientists, Open Refine, Spreadsheets and other data science skills.
+-	Data Science community support and resource for the CSS certificate and iSchool 2021 – 2022. **Data Carpentries Instructor:** Live coding instructor for Data Analysis and Visualization with R for Social Scientists, Open Refine, Spreadsheets and other data science skills.
 -	Projects in Progress Creator and Organizer. Community Data Science environment for researchers on campus to collaborate and share projects ideas and progress. Helped consult 3 - 5 projects over the span of two semester (over 20 researchers) using data science methods monthly.
 -	Helped organize Stanford-based Women in Data Science satellite conference and led the Computational Social Science panel as an organizer and moderator. April 2022 event is expected to have around 400 participants.
 
