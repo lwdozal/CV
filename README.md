@@ -8,7 +8,7 @@
 
 **Programming Languages & Tools** \
 R: tidyverse • dplyr • tidymodels • RMarkdown • \
-Python: numpy • pandas • scikit-learn • TensorFlow •  \
+Python: numpy • pandas • scikit-learn • TensorFlow •  PyTorch  •\
 SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS
 
 **Bilingual**: English Native, Spanish Fluency 
@@ -69,8 +69,8 @@ Computational Linguistics – CCT, Georgetown 2014
 ## Experience
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
-- End-to-end product development for two interactive dashboards automatically updated on a weekly basis. Use data cleaning and manipulation in dplyr to build data tables that include weekly summary statistics, time series, and inflation information of campus-wide Net Tuition Revenue (NTR) data to be loaded into an internal Oracle data warehouse. Conceptualize dashboard prototypes and created SQL script to pull database data into the dashboard. The dashboard reports are used so that campus leaders and policy makers can make informed decisions.
-- Spearhead the Women in Science and Engineering retention report project that uses survival analysis and churn analysis. Identified particular student characteristics that debilitate or foster success towards graduating college. Enabled further review across university departments to enable discussion and student experience development.
+- Spearhead the Women in Science and Engineering Retention report project which uses survival and churn analysis. These analyses incorporate machine learning applications including decision tree and random forest models along with other time based analytic methods. Identified student financial, cultural, academic, and demographic characteristics that either debilitate or foster success towards graduating college. Enabled further review across university departments to enable discussion and student experience development.
+- End-to-end product development of dashboard visualizations and analysis using R and SQL. Create aggregated data tables from an internal Oracle data warehouse that include descriptive statistics and inflation information of campus-wide Net Tuition Revenue (NTR). Dashboard analysis is used by leaders and policy makers on campus to make informed decisions.
 - Work under the customer experience team and collaborate with the data engineering team to connect to batch servers and the internal data warehouse. Use the Jira ticket system, Sourcetree and Slack to communicate and organize the project.
 
 Computational Tools and Thinking Fellow – [iSchool Inclusion Institute](i3-inclusion.org)
