@@ -30,7 +30,7 @@ Network Analysis • Machine Learning • Data Mining • Data Processing • We
 
 ### Leadership
 **Data Carpentries Instructor** – Live coding workshops in R, Open Refine, Spreadsheets and other data science skills 2022 - Present \
-**ASIS&T: SIG-Visualization, sound, and Images Secretary Chair 2021 - 2022 \
+**ASIS&T: SIG-Visualization, sound, and Images** Secretary Chair 2021 - 2022 \
 **WiDS-Tucson (Women in Data Science)**, Panel Sessions Organizer, Data Blitz Committees 2021 -2022 \
 **Data Science Ambassador**- Data Science liaison for the CSS certificate and iSchool; Datathon Organizer 2021 – 2022 \
 **Lecturer-ESOC300**: Digital Storytelling Summer 2022 \
