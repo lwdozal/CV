@@ -15,7 +15,7 @@ SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS
 
 
 **Expertise** 
-Data Processing and QA • Network Analysis • Machine Learning • Data Mining • Data Processing • Predictive Modeling • Classification • Regression • Clustering • Hypothesis Testing • Bayesian Analysis • Gaussian Models •Recursive and Convolutional Neural Networks • Dimensionality Reduction •Multiclass Classification • Multilevel Modeling• Text Analysis• Natural Language Processing• Word Embeddings • Survey Design • Visual Frames • Social Movements • 
+Network Analysis • Machine Learning • Data Mining • Data Processing • Web Scraping • Predictive Modeling • Classification • Regression • Clustering • Hypothesis Testing • Bayesian Analysis • Gaussian Models •Recursive and Convolutional Neural Networks • Dimensionality Reduction •Multiclass Classification • Multilevel Modeling• Text Analysis• Natural Language Processing• Word Embeddings • Survey Design • Visual Frames • Social Movements • 
 
 ## Publications and Presentations
 - [Mixed Methods for Understanding Visual Frames in Social Movements](https://ischool.arizona.edu/events/mixed-methods-understanding-visual-frames-social-movements-laura-w-dozal), International Conference on Computational Social Science [(IS2C2), Poster](https://www.ic2s2.org/_files/ugd/3d8e26_1394ecaa666e4d6d8d8199fe28d17746.pdf), Chicago, July 2022\
