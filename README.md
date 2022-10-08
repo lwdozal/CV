@@ -30,6 +30,7 @@ Data Processing and QA • Network Analysis • Machine Learning • Data Mining
 
 ### Leadership
 **Data Carpentries Instructor** – Live coding workshops in R, Open Refine, Spreadsheets and other data science skills 2022 - Present \
+**ASIS&T: SIG-Visualization, sound, and Images Secretary Chair 2021 - 2022 \
 **WiDS-Tucson (Women in Data Science)**, Panel Sessions Organizer, Data Blitz Committees 2021 -2022 \
 **Data Science Ambassador**- Data Science liaison for the CSS certificate and iSchool; Datathon Organizer 2021 – 2022 \
 **Lecturer-ESOC300**: Digital Storytelling Summer 2022 \
@@ -69,27 +70,28 @@ Computational Linguistics – CCT, Georgetown 2014
 ## Experience
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
-- Spearhead the Women in Science and Engineering Retention report project which uses survival and churn analysis. These analyses incorporate machine learning applications including decision tree and random forest models along with other time based analytic methods. Identified student financial, cultural, academic, and demographic characteristics that either debilitate or foster success towards graduating college. Enabled further review across university departments to enable discussion and student experience development.
-- End-to-end product development of dashboard visualizations and analysis using R and SQL. Create aggregated data tables from an internal Oracle data warehouse that include descriptive statistics and inflation information of campus-wide Net Tuition Revenue (NTR). Dashboard analysis is used by leaders and policy makers on campus to make informed decisions.
-- Work under the customer experience team and collaborate with the data engineering team to connect to batch servers and the internal data warehouse. Use the Jira ticket system, Sourcetree and Slack to communicate and organize the project.
+- Analyzed 30K student course surveys using Natural language processing application to identify sentiment for curriculum in various departmanets on campus. Increase faculty participation in curriculum review across schools on campus.
+- Spearhead the Women in Science and Engineering Retention report project which uses survival and churn analysis. These analyses review churn or dropout rates of 37K+ students over ten years. Identify key variables that contribute to dropout numbers. The analysis incorporates machine learning applications including decision tree and random forest models along with other time based analytic methods. Identified student financial, cultural, academic, and demographic characteristics that either debilitate or foster success towards graduating college. Increase awareness of dropout rates across three university departments to enable discussion and student experience development.
+- Develop End-to-end application of tuition and headcount dashboard visualizations and analysis using R and SQL. Create aggregated data tables from an internal Oracle data warehouse that include descriptive statistics and inflation information of campus-wide Net Tuition Revenue (NTR). Dashboard analysis is used by leaders and policy makers on campus to make informed decisions.
+- Collaborate with the data engineering team to connect to batch servers and the internal data warehouse. Use the Jira ticket system, Sourcetree and Slack to communicate and organize the project.
 
 Computational Tools and Thinking Fellow – [iSchool Inclusion Institute](i3-inclusion.org)
 Austin, Texas, 06/2022 – 07/2022
 -	Developed ten, two hour lesson plans for a computational tools and thinking survey course that covered R, Python, Social Network Analysis, Design Theory, and coding best practices. Taught to a wide range of experience levels that included 25 high achieving undergraduate students from STEM and Social Sciences fields. 
--	Held office hours to support outside research and enabled the development of a 20-month research design process. Participated in community building activities with other distinguished fellows as well as with our students. 
+-	Supported outside research with office hours and enabled the development of a 20-month research design process. Participated in community building activities with other distinguished fellows as well as with our students. 
 -	Maintained mentor level contact with students to aid in coding and analysis applications for their research.
 
 
 Data Science Ambassador– [University Arizona Data Science Institute](https://datascience.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
 -	Data Science community support and resource for the CSS certificate and iSchool 2021 – 2022. **Data Carpentries Instructor:** Live coding instructor for Data Analysis and Visualization with R for Social Scientists, Open Refine, Spreadsheets and other data science skills.
--	Projects in Progress Creator and Organizer. Community Data Science environment for researchers on campus to collaborate and share projects ideas and progress. Helped consult 3 - 5 projects over the span of two semester (over 20 researchers) using data science methods monthly.
+-	Created and Organized Projects in Progress. Fostered a Data Science community environment for researchers on campus to collaborate and share projects ideas and progress. Helped consult 3 - 5 projects over the span of two semester (over 20 researchers) using data science methods monthly.
 -	Helped organize Stanford-based Women in Data Science satellite conference and led the Computational Social Science panel as an organizer and moderator. April 2022 event is expected to have around 400 participants.
 
 Graduate Research Assistant: Data Science – [Arizona Medical Education Research Initiative](https://old.coe.arizona.edu/ameri)
 Tucson, AZ, 01/2021 – 8/2021
 -	Applied statistical analysis an inference to survey and collected data to review and test the University of Arizona’s Medical School’s performance for future accreditation. Types of data include survey data, raw archived data, collected government and academic data from large data systems. Used both R and Python to apply analysis of variance, chi-square tests, post hoc and assumptions checks, regression analysis, correlation analysis, visualizations.  
--	Worked with Power BI, Excel, R and Python to clean, manage, transform, analyze, iterate, and visualize data. Created reports from various sized data sets using statistical analysis and visualization. Asset in team collaboration
+-	Created with Power BI, Excel, R and Python to clean, manage, transform, analyze, iterate, and visualize data. Created reports from various sized data sets using statistical analysis and visualization. Asset in team collaboration
 
 Research Analyst – Security Analysis Co-Lab. University of Arizona 
 Tucson, AZ, 03/2020 – 9/2021 
