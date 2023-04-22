@@ -3,6 +3,9 @@ title: Laura W. Dozal
 subtitle: PhD Candidate at the University of Arizona’s School of Information (iSchool). Methods Expert in Network Analysis, Machine Learning, and Data Mining
 Description: 
   Computational Social Scientist with 4+ years of specialization in information behavior and visual analysis through AI and knowledge discovery.
-  https://lwdozal.github.io/CV/
+  
+  https://lwdozal.github.io/
+  
+  
 plugins:
   - jekyll-image-size
