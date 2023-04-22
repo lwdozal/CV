@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: Laura W. Dozal
-subtitle: iSchool PhD Student at the University of Arizona, 4th year
-Description: Computational Social Scientist Specializing in information behavior and visual analysis.
+subtitle: PhD Candidate at the University of Arizona’s School of Information (iSchool). Methods Expert in Network Analysis, Machine Learning, and Data Mining
+Description: Computational Social Scientist with 4+ years of specialization in information behavior and visual analysis through AI and knowledge discovery
+lwdozal.github.io/
 
 plugins:
   - jekyll-image-size
