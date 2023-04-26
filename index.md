@@ -4,7 +4,7 @@
 <!-- <img src="noun-star-1346793.svg" alt="star" width="250"/> -->
 
 
-
+[Portfolio](https://lwdozal.github.io/) <img src="/images/noun-lines-resize.png"  width=15% height=15%/>
 
 **Programming Languages & Tools** \
 R: tidyverse • dplyr • tidymodels • RMarkdown • \
@@ -18,15 +18,15 @@ SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS
 Network Analysis • Machine Learning • Data Mining • Data Processing • Web Scraping • Predictive Modeling • Classification • Regression • Clustering • Hypothesis Testing • Bayesian Analysis • Gaussian Models •Recursive and Convolutional Neural Networks • Dimensionality Reduction •Multiclass Classification • Multilevel Modeling• Text Analysis• Natural Language Processing• Word Embeddings • Survey Design • Visual Frames • Social Movements • 
 
 ## Publications and Presentations
-- [Mixed Methods for Understanding Visual Frames in Social Movements](https://ischool.arizona.edu/events/mixed-methods-understanding-visual-frames-social-movements-laura-w-dozal), International Conference on Computational Social Science [(IS2C2), Poster](https://www.ic2s2.org/_files/ugd/3d8e26_1394ecaa666e4d6d8d8199fe28d17746.pdf), Chicago, July 2022\
-- [Extracting Space Situational Awareness Events from News Text, Language Resources and Evaluation Conference](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.653.pdf) (LREC). May 2022\
-- [Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.537), ASIS&T Poster, Salt Lake City, 11/2/2021\
-- [Detecting the Spread of Propaganda Bias Online: Comparing HAN and BERT Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3748821), TPRC Conference, Paper Presenter, 4/15/2021\
-- Data Visualization Timeline - [Old North Pilgrimage Project](https://journals.sagepub.com/doi/10.1177/1474022217736510), Permanent Installation, Georgetown University, 4/21/2016\
-- Network Installations - An Art Technology, [Paper Presenter, PCA/ACA](https://pcaaca.org/sites/default/files/wp-content/uploads/2016/05/2016-pcaaca-program-with-schedule.pdf) 06/09/2015, STGlobal Conference in DC 11/2015\
+- [Mixed Methods for Understanding Visual Frames in Social Movements](https://ischool.arizona.edu/events/mixed-methods-understanding-visual-frames-social-movements-laura-w-dozal), International Conference on Computational Social Science [(IS2C2), Poster](https://www.ic2s2.org/_files/ugd/3d8e26_1394ecaa666e4d6d8d8199fe28d17746.pdf), Chicago, July 2022
+- [Extracting Space Situational Awareness Events from News Text, Language Resources and Evaluation Conference](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.653.pdf) (LREC). May 2022
+- [Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.537), ASIS&T Poster, Salt Lake City, 11/2/2021
+- [Detecting the Spread of Propaganda Bias Online: Comparing HAN and BERT Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3748821), TPRC Conference, Paper Presenter, 4/15/2021
+- Data Visualization Timeline - [Old North Pilgrimage Project](https://journals.sagepub.com/doi/10.1177/1474022217736510), Permanent Installation, Georgetown University, 4/21/2016
+- Network Installations - An Art Technology, [Paper Presenter, PCA/ACA](https://pcaaca.org/sites/default/files/wp-content/uploads/2016/05/2016-pcaaca-program-with-schedule.pdf) 06/09/2015, STGlobal Conference in DC 11/2015
 - [Street Art Dialogue, Gnovis Journal](https://repository.library.georgetown.edu/bitstream/handle/10822/761436/Street_Art_Dialogue.pdf;sequence=1), December 18, 2014 (Peer Reviewed Publication)
 
-<!-- <img src="/images/noun-lines-resize.png"  width=15% height=15%/> -->
+<img src="/images/noun-lines-resize.png"  width=15% height=15%/>
 
 ### Leadership
 **Data Carpentries Instructor** – Live coding workshops in R, Open Refine, Spreadsheets and other data science skills 2022 - Present \
@@ -39,9 +39,11 @@ Network Analysis • Machine Learning • Data Mining • Data Processing • We
 **iSchool Colloquium**, Organizer: Moderated Lectures, led school-wide Faculty Research Blitz 2020 – 2021 \
 **Machine Learning Literacy Project**, Coach 2020 
 
-<!-- <img src="/images/noun-lines-resize.png"  width=15% height=15%/> -->
+<img src="/images/noun-lines-resize.png"  width=15% height=15%/>
+
 
 ## Coursework and Certifications
+\Theory of Statistics - School of Statistics, Spring 2023\
 Text Analysis Pedagogy Institute – JSTOR & University of Arizona, Summer 2022\
 Introduction to Artificial Intelligence– School of Information, Spring 2022\
 Information Retrieval– School of Information, Spring 2022\
@@ -65,12 +67,13 @@ Presenting Data and Information- Edward Tufte, 2016\
 Knowledge Management – CCT, Georgetown 2015\
 Computational Linguistics – CCT, Georgetown 2014
 
+<img src="/images/noun-lines-resize.png"  width=15% height=15%/> 
 <!-- <img src="/images/noun-star-1346793.svg" width=10% height=10%/> -->
 
 ## Experience
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
-- Analyze 30K+ student course surveys using Natural language processing applications to identify sentiment for curriculum in various departments on campus. Increase faculty participation in curriculum review across schools on campus.
+- Analyze 3Million+ student course surveys using Natural language processing applications to identify sentiment and trends over 3 academic years. Increase faculty participation in curriculum review across schools on campus.
 - Spearhead the Women in Science and Engineering Retention report project which uses survival and churn analysis. These analyses review churn or dropout rates of 37K+ students over ten years. Identify key variables that contribute to dropout numbers. The analysis incorporates machine learning applications including decision tree and random forest models along with other time based analytic methods. Identified student financial, cultural, academic, and demographic characteristics that either debilitate or foster success towards graduating college. Increase awareness of dropout rates across three university departments to enable discussion and student experience development.
 - Develop End-to-end application of tuition and headcount dashboard visualizations and analysis using R and SQL. Create aggregated data tables from an internal Oracle data warehouse that include descriptive statistics and inflation information of campus-wide Net Tuition Revenue (NTR). Dashboard analysis is used by leaders and policy makers on campus to make informed decisions.
 - Collaborate with the data engineering team to connect to batch servers and the internal data warehouse. Use the Jira ticket system, Sourcetree and Slack to communicate and organize the project.
