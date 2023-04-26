@@ -4,12 +4,12 @@
 <!-- <img src="noun-star-1346793.svg" alt="star" width="250"/> -->
 
 
-[Portfolio](https://lwdozal.github.io/) <img src="/images/noun-lines-resize.png"  width=15% height=15%/>
+<img src="/images/noun-lines-resize.png"  width=15% height=15%/>
 
 **Programming Languages & Tools** \
 R: tidyverse • dplyr • tidymodels • RMarkdown • \
 Python: numpy • pandas • scikit-learn • TensorFlow •  PyTorch  •\
-SQL • LaTeX • Git/Github • HTML, Jira • Anaconda • Tableau • ArcGIS
+SQL • LaTeX • Git/Github • JavaScript, HTML, Jira • Anaconda • Tableau • ArcGIS
 
 **Bilingual**: English Native, Spanish Fluency 
 
