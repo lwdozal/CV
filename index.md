@@ -3,8 +3,8 @@
 <!-- ![test](noun-star-1346793.svg) -->
 <!-- <img src="noun-star-1346793.svg" alt="star" width="250"/> -->
 
-
-<img src="/images/noun-lines-resize.png"  width=15% height=15%/>
+[Portfolio](https://lwdozal.github.io/) 
+<!-- <img src="/images/noun-lines-resize.png"  width=15% height=15%/> -->
 
 **Programming Languages & Tools** \
 R: tidyverse • dplyr • tidymodels • RMarkdown • \
@@ -26,7 +26,7 @@ Network Analysis • Machine Learning • Data Mining • Data Processing • We
 - Network Installations - An Art Technology, [Paper Presenter, PCA/ACA](https://pcaaca.org/sites/default/files/wp-content/uploads/2016/05/2016-pcaaca-program-with-schedule.pdf) 06/09/2015, STGlobal Conference in DC 11/2015
 - [Street Art Dialogue, Gnovis Journal](https://repository.library.georgetown.edu/bitstream/handle/10822/761436/Street_Art_Dialogue.pdf;sequence=1), December 18, 2014 (Peer Reviewed Publication)
 
-<img src="/images/noun-lines-resize.png"  width=15% height=15%/>
+<!-- <img src="/images/noun-lines-resize.png"  width=15% height=15%/> -->
 
 ### Leadership
 **Data Carpentries Instructor** – Live coding workshops in R, Open Refine, Spreadsheets and other data science skills 2022 - Present \
@@ -39,7 +39,7 @@ Network Analysis • Machine Learning • Data Mining • Data Processing • We
 **iSchool Colloquium**, Organizer: Moderated Lectures, led school-wide Faculty Research Blitz 2020 – 2021 \
 **Machine Learning Literacy Project**, Coach 2020 
 
-<img src="/images/noun-lines-resize.png"  width=15% height=15%/>
+<!-- <img src="/images/noun-lines-resize.png"  width=15% height=15%/> -->
 
 
 ## Coursework and Certifications
@@ -67,7 +67,7 @@ Presenting Data and Information- Edward Tufte, 2016\
 Knowledge Management – CCT, Georgetown 2015\
 Computational Linguistics – CCT, Georgetown 2014
 
-<img src="/images/noun-lines-resize.png"  width=15% height=15%/> 
+<!-- <img src="/images/noun-lines-resize.png"  width=15% height=15%/>  -->
 <!-- <img src="/images/noun-star-1346793.svg" width=10% height=10%/> -->
 
 ## Experience
