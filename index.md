@@ -76,10 +76,12 @@ Computational Linguistics – CCT, Georgetown 2014
 <!-- <img src="/images/noun-star-1346793.svg" width=10% height=10%/> -->
 
 ## Experience
-Dissertation Fellowship, 2023 Cohort, [R4R](https://datascience.arizona.edu/r4r) (Roots for Resilience) | University of Arizona Data Science Institute, Tucson, AZ, 08/2023 – Present
+Dissertation Fellow, 2023 Cohort, [R4R](https://datascience.arizona.edu/r4r) (Roots for Resilience) | University of Arizona Data Science Institute, Tucson, AZ, 08/2023 – Present
 - Created and maintained a data management Plan for Open Science using FOSS framework in collaboration with CyVerse. Use of Data Pipelines, DataOps, and Open Data Science for Big Data.
-[LEADING Data Science Fellowship](https://mrc.cci.drexel.edu/leading/) 2023 Cohort - Drexel University & University of Rochester
+
+[LEADING Data Science Fellow](https://mrc.cci.drexel.edu/leading/) 2023 Cohort - Drexel University & University of Rochester,  Remote, AZ, 06/2023 – Present
 - Lead creation of a Data Pipeline to collect and analyze bibliometric data from University of Rochester Researchers. Estimated 500K+ elements in collected a processed data using trend analysis and OLS regression to understand researchers’ behavior for publishing data. Use trend analysis methods including regression, time series analysis, and conformal prediction analysis for future publication behavior.
+
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
 - Analyze 3Million+ student course surveys using Natural language processing applications to identify sentiment and trends over 3 academic years. Increase faculty participation in curriculum review across schools on campus.
