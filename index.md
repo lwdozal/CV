@@ -8,16 +8,18 @@
 
 **Programming Languages & Tools** \
 R: tidyverse • dplyr • tidymodels • RMarkdown • \
-Python: numpy • pandas • scikit-learn • TensorFlow •  PyTorch  •\
-SQL • LaTeX • Git/Github • JavaScript, HTML, Jira • Anaconda • Tableau • ArcGIS
+Python: numpy • pandas • scikit-learn • OpenCV • TensorFlow •  PyTorch  •\
+SQL • LaTeX • Git/Github • JavaScript, HTML • Jira • Anaconda • Tableau • ArcGIS
 
 **Bilingual**: English Native, Spanish Fluency 
 
 
 **Expertise** 
-Network Analysis • Machine Learning • Data Mining • Data Processing • Web Scraping • Predictive Modeling • Classification • Regression • Clustering • Hypothesis Testing • Bayesian Analysis • Gaussian Models •Recursive and Convolutional Neural Networks • Dimensionality Reduction •Multiclass Classification • Multilevel Modeling• Text Analysis• Natural Language Processing• Word Embeddings • Survey Design • Visual Frames • Social Movements • 
+Network Analysis • Machine Learning • Computer Vision • Data Mining • Data Processing • Web Scraping • Predictive Modeling • Classification • Regression • Clustering • Hypothesis Testing • Bayesian Analysis • Gaussian Models •Recursive and Convolutional Neural Networks • Dimensionality Reduction •Multiclass Classification • Multilevel Modeling• Text Analysis• Natural Language Processing• Word Embeddings • Survey Design • Visual Frames • Social Movements • 
 
 ## Publications and Presentations
+- [Mixed Methods Framework for Understanding Visual Frames in Social Movements](https://www.asist.org/am23/2023-annual-meeting-papers/), ASIS&T Conference, Long Paper, October 2023
+- [Posit::Conf2023](https://posit.co/conference/),  Opportunity Scholar, September 2023
 - [Mixed Methods for Understanding Visual Frames in Social Movements](https://ischool.arizona.edu/events/mixed-methods-understanding-visual-frames-social-movements-laura-w-dozal), International Conference on Computational Social Science [(IS2C2), Poster](https://www.ic2s2.org/_files/ugd/3d8e26_1394ecaa666e4d6d8d8199fe28d17746.pdf), Chicago, July 2022
 - [Extracting Space Situational Awareness Events from News Text, Language Resources and Evaluation Conference](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.653.pdf) (LREC). May 2022
 - [Street Art as Visual Information: Mixed Methods Approach to Analyzing Community Spaces](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.537), ASIS&T Poster, Salt Lake City, 11/2/2021
@@ -29,7 +31,9 @@ Network Analysis • Machine Learning • Data Mining • Data Processing • We
 <!-- <img src="/images/noun-lines-resize.png"  width=15% height=15%/> -->
 
 ### Leadership
-**Data Carpentries Instructor** – Live coding workshops in R, Open Refine, Spreadsheets and other data science skills 2022 - Present \
+**AI Steering Committee**, University of Arizona, 2023 - Present\
+**PhD Community Liaison** (University of Arizona iSchool) 2021 - Present\
+**Data Carpentries Instructor** – Lead coding workshops in R, Python, Open Refine, and data science skills 2022 –Present \
 **ASIS&T: SIG-Visualization, sound, and Images** Secretary Chair 2021 - 2022 \
 **WiDS-Tucson (Women in Data Science)**, Panel Sessions Organizer, Data Blitz Committees 2021 -2022 \
 **Data Science Ambassador**- Data Science liaison for the CSS certificate and iSchool; Datathon Organizer 2021 – 2022 \
@@ -43,7 +47,8 @@ Network Analysis • Machine Learning • Data Mining • Data Processing • We
 
 
 ## Coursework and Certifications
-\Theory of Statistics - School of Statistics, Spring 2023\
+Introduction to Computer Vision - Computer Science, Fall 2023
+Theory of Statistics - School of Statistics, Spring 2023\
 Text Analysis Pedagogy Institute – JSTOR & University of Arizona, Summer 2022\
 Introduction to Artificial Intelligence– School of Information, Spring 2022\
 Information Retrieval– School of Information, Spring 2022\
@@ -71,6 +76,10 @@ Computational Linguistics – CCT, Georgetown 2014
 <!-- <img src="/images/noun-star-1346793.svg" width=10% height=10%/> -->
 
 ## Experience
+Dissertation Fellowship, 2023 Cohort, [R4R](https://datascience.arizona.edu/r4r) (Roots for Resilience) | University of Arizona Data Science Institute, Tucson, AZ, 08/2023 – Present
+- Created and maintained a data management Plan for Open Science using FOSS framework in collaboration with CyVerse. Use of Data Pipelines, DataOps, and Open Data Science for Big Data.
+[LEADING Data Science Fellowship](https://mrc.cci.drexel.edu/leading/) 2023 Cohort - Drexel University & University of Rochester
+- Lead creation of a Data Pipeline to collect and analyze bibliometric data from University of Rochester Researchers. Estimated 500K+ elements in collected a processed data using trend analysis and OLS regression to understand researchers’ behavior for publishing data. Use trend analysis methods including regression, time series analysis, and conformal prediction analysis for future publication behavior.
 Graduate Research Assistant: Data Analysis – [University Analytics and Institutional Research](https://uair.arizona.edu/)
 Tucson, AZ, 08/2021 – Present
 - Analyze 3Million+ student course surveys using Natural language processing applications to identify sentiment and trends over 3 academic years. Increase faculty participation in curriculum review across schools on campus.
@@ -86,7 +95,7 @@ Austin, Texas, 06/2022 – 07/2022
 
 
 Data Science Ambassador– [University Arizona Data Science Institute](https://datascience.arizona.edu/)
-Tucson, AZ, 08/2021 – Present
+Tucson, AZ, 08/2021 – 08/2022
 -	Data Science community support and resource for the CSS certificate and iSchool 2021 – 2022. **Data Carpentries Instructor:** Live coding instructor for Data Analysis and Visualization with R for Social Scientists, Open Refine, Spreadsheets and other data science skills.
 -	Created and Organized Projects in Progress. Fostered a Data Science community environment for researchers on campus to collaborate and share projects ideas and progress. Helped consult 3 - 5 projects over the span of two semester (over 20 researchers) using data science methods monthly.
 -	Helped organize Stanford-based Women in Data Science satellite conference and led the Computational Social Science panel as an organizer and moderator. April 2022 event is expected to have around 400 participants.
@@ -109,8 +118,10 @@ Tucson, AZ, Summer 2021
 
 Graduate Teaching Assistant: Instructor – University of Arizona School of Information
 Tucson, AZ, 08/2019 – Present
-- Instructor for ESOC 211 – Collaborating in Online Communities. The class focuses on what humans do, how they present themselves, and how they do the work of collaboration in online contexts by considering how people create a sense of community, maintain group connections, and cooperate with one another to bring about a particular outcome. Students learn online collaboration skills, and alternative thinking processes on how to approach online communities. I introduce digital tools such as LucidChart, Adobe Spark, and digital content methods such as user personas, metadata, and SEO. They also learn genre analysis and visual rhetoric.
-- Instructor for ESOC300: Digital Storytelling Summer 2022. 
+-	Instructor for ESOC 130  – Computational Thinking and Doing. Introduction to python topics including functions, lists, classes, and logic. Provide computational theory for problem solving with algorithms and other computational models. 
+-	Instructor for ESOC 211 – Collaborating in Online Communities. The class focuses on what humans do, how they present themselves, and how they do the work of collaboration in online contexts by considering how people create a sense of community, maintain group connections, and cooperate with one another to bring about a particular outcome. Students learn online collaboration skills, and alternative thinking processes on how to approach online communities. introduced digital tools such as Lucid Chart, Adobe Spark, and digital content methods such as user personas, metadata, and SEO. They also learn genre analysis and visual rhetoric.
+-	Instructor for ESOC 300 – Digital Storytelling and Culture. The class focuses on how story, audience engagement, narrative structure, and digital mediums has been harnessed to understand how stories are essential to our experience as humans. Students complete a semester-long project incorporating elements of community, identity, memory, and perspective.
+
 
 
 Community Outreach and Program Coordinator – Lutheran Social Services of the Southwest K-12 Refugee Education [(AmeriCorps State Member)](https://americorps.gov/national-service-report/az)
