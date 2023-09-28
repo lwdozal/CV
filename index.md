@@ -32,7 +32,7 @@ Network Analysis • Machine Learning • Computer Vision • Data Mining • Da
 
 ### Leadership
 **AI Steering Committee**, University of Arizona, 2023 - Present\
-**PhD Community Manager** (University of Arizona iSchool) 2021 - Present\
+**PhD Community Manager** University of Arizona iSchool, 2021 - Present\
 **Data Carpentries Instructor** – Lead coding workshops in R, Python, Open Refine, and data science skills 2022 –Present \
 **ASIS&T: SIG-Visualization, sound, and Images** Secretary Chair 2021 - 2022 \
 **WiDS-Tucson (Women in Data Science)**, Panel Sessions Organizer, Data Blitz Committees 2021 -2022 \
